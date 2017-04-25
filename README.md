@@ -1,4 +1,7 @@
-# api documentation for  [npm-collection-language-tools (v1.9.0)](https://github.com/zeke/npm-collection-language-tools)  [![npm package](https://img.shields.io/npm/v/npmdoc-npm-collection-language-tools.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-npm-collection-language-tools) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-npm-collection-language-tools.svg)](https://travis-ci.org/npmdoc/node-npmdoc-npm-collection-language-tools)
+# npmdoc-npm-collection-language-tools
+
+#### basic api documentation for  [npm-collection-language-tools (v1.9.0)](https://github.com/zeke/npm-collection-language-tools)  [![npm package](https://img.shields.io/npm/v/npmdoc-npm-collection-language-tools.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-npm-collection-language-tools) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-npm-collection-language-tools.svg)](https://travis-ci.org/npmdoc/node-npmdoc-npm-collection-language-tools)
+
 #### A collection of npm modules for working with words and language
 
 [![NPM](https://nodei.co/npm/npm-collection-language-tools.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/npm-collection-language-tools)
@@ -103,7 +106,8 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "version": "1.9.0"
+    "version": "1.9.0",
+    "bin": {}
 }
 ```
 
